@@ -1,0 +1,6 @@
+"name": "experiment",
+"type": "python",
+"request": "launch",
+"program": "${workspaceFolder}./main.py",
+"console": "integratedTerminal",
+"args": ["-m", "scrnet", "-rep", "5"]
